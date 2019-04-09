@@ -1,14 +1,47 @@
 <ion-header>
   <ion-toolbar>
     <ion-title>
-      Ionic Blank
+      Ionic 4 Progress Bar Example
     </ion-title>
   </ion-toolbar>
 </ion-header>
 
 <ion-content>
   <div class="ion-padding">
-    The world is your oyster.
-    <p>If you get lost, the <a target="_blank" rel="noopener" href="https://ionicframework.com/docs/">docs</a> will be your guide.</p>
+
+    <p>
+      Learn more from Jami at
+      <a href="https://jamibot.com" target="|blank">jamibot.com</a>
+    </p>
+
+
+    <p>Default Progress Bar</p>
+    <ion-progress-bar></ion-progress-bar>
+    <br>
+
+    <p>Default Progress Bar with 50 percent</p>
+    <ion-progress-bar value="0.5"></ion-progress-bar>
+    <br>
+    <ion-progress-bar value="0.5" reversed="true"></ion-progress-bar>
+    <br>
+
+    <p>Bind to a variable</p>
+    <ion-progress-bar [value]="progress"></ion-progress-bar>
+    <br>
+
+    <p>Colorize Progress Bar</p>
+    <ion-progress-bar color="primary" value="0.5"></ion-progress-bar>
+    <br>
+    <ion-progress-bar color="secondary" value="0.5"></ion-progress-bar>
+    <br>
+
+    <p>Other types</p>
+    <ion-progress-bar value="0.25" buffer="0.5"></ion-progress-bar>
+    <br>
+    <ion-progress-bar type="indeterminate"></ion-progress-bar>
+    <br>
+    <ion-progress-bar type="indeterminate" reversed="true"></ion-progress-bar>
+    <br>
+
   </div>
 </ion-content>

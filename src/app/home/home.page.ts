@@ -6,5 +6,11 @@ import { Component } from '@angular/core';
   styleUrls: ['home.page.scss'],
 })
 export class HomePage {
+  progress = 0;
 
+  constructor() {
+    setInterval(() => {
+      this.progress += .1;
+    }, 1000)
+  }
 }
