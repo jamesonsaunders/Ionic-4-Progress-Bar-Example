@@ -1,6 +1,6 @@
 # Ionic 4 Progress Bar Example
 
-This project accompanies the [Jami Bot](https://jamibot.com) YouTube video [Ionic 4 Progress Bar Tutorial](https://www.youtube.com/watch?v=1_uRexZNrMI).
+This project accompanies the [Jami Bot](https://jamibot.com) YouTube video [Ionic 4 Progress Bar Tutorial](https://www.youtube.com/watch?v=1_uRexZNrMI) as well as the blog article [Ionic 4 Progress Bar Tutorial](https://blog.jamibot.com/ionic-4-progress-bar).
 
 [![Ionic 4 Progress Bar Tutorial](https://img.youtube.com/vi/1_uRexZNrMI/maxresdefault.jpg)](https://www.youtube.com/watch?v=1_uRexZNrMI)
 
