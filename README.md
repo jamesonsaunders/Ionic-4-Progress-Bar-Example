@@ -1,12 +1,12 @@
 # Ionic 4 Progress Bar Example
 
-This project accompanies the [Jami Bot](https://jamibot.com) YouTube video [Ionic 4 Progress Bar Tutorial](https://www.youtube.com/watch?v=1_uRexZNrMI) as well as the blog article [Ionic 4 Progress Bar Tutorial](https://blog.jamibot.com/ionic-4-progress-bar).
+This project accompanies the [Jameson Saunders](https://jamesonsaunders.com) YouTube video [Ionic 4 Progress Bar Tutorial](https://www.youtube.com/watch?v=1_uRexZNrMI) as well as the blog article [Ionic 4 Progress Bar Tutorial](https://blog.jamibot.com/ionic-4-progress-bar).
 
 [![Ionic 4 Progress Bar Tutorial](https://img.youtube.com/vi/1_uRexZNrMI/maxresdefault.jpg)](https://www.youtube.com/watch?v=1_uRexZNrMI)
 
 A minimal example of how to get the Ionic 4 Progress Bar working on your own site. Includes configuration of things like color, binding to a variable, buffering, reverse, and intermediate progress bars.
 
-If you haven't already, check out the [Jami Bot YouTube Channel](https://youtube.com/c/JamiBot) for web and mobile development tutorials.
+If you haven't already, check out the [Jameson Saunders YouTube Channel](https://youtube.com/c/JamesonSaunders) for web and mobile development tutorials.
 
 ## Installation
 
